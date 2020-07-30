@@ -62,7 +62,7 @@ If you prefer not to use either of the aforementioned dependency managers, you c
 
 ## Usage
 
-- [Link](./usage.md)
+- [Read usage](./usage.md)
 
 ## License
 
