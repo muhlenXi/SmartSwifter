@@ -25,6 +25,7 @@
 		C890C38824D298A3005AE1B3 /* UIScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C890C38724D298A3005AE1B3 /* UIScrollView.swift */; };
 		C890C38A24D298C5005AE1B3 /* UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = C890C38924D298C5005AE1B3 /* UITextField.swift */; };
 		C890C38C24D298F7005AE1B3 /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C890C38B24D298F7005AE1B3 /* UIButton.swift */; };
+		C8F7DDC924D3B99D0095B70C /* DispatchQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8F7DDC824D3B99D0095B70C /* DispatchQueue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		C890C38724D298A3005AE1B3 /* UIScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIScrollView.swift; sourceTree = "<group>"; };
 		C890C38924D298C5005AE1B3 /* UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextField.swift; sourceTree = "<group>"; };
 		C890C38B24D298F7005AE1B3 /* UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
+		C8F7DDC824D3B99D0095B70C /* DispatchQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DispatchQueue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 				C890C38724D298A3005AE1B3 /* UIScrollView.swift */,
 				C890C38924D298C5005AE1B3 /* UITextField.swift */,
 				C890C38B24D298F7005AE1B3 /* UIButton.swift */,
+				C8F7DDC824D3B99D0095B70C /* DispatchQueue.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				C890C37024D27622005AE1B3 /* SSFile.swift in Sources */,
 				C890C38224D29672005AE1B3 /* UIImage.swift in Sources */,
 				C890C38424D296DC005AE1B3 /* UIView.swift in Sources */,
+				C8F7DDC924D3B99D0095B70C /* DispatchQueue.swift in Sources */,
 				C890C37A24D294B7005AE1B3 /* UIDevice.swift in Sources */,
 				C890C38024D29628005AE1B3 /* URL.swift in Sources */,
 				C890C38C24D298F7005AE1B3 /* UIButton.swift in Sources */,
